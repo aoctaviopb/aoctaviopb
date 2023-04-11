@@ -21,7 +21,7 @@ Con conocimientos y experiencia en el manejo sistemas de información geográfic
 
 <div>
   <img src="https://github.com/aoctaviopb/aoctaviopb/blob/main/assets/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
-  <img src="https://github.com/aoctaviopb/aoctaviopb/blob/main/assets/dart-original-wordmark.svg" title="Dart" **alt="Dart" width="40" height="40"/>
+  <img src="https://github.com/aoctaviopb/aoctaviopb/blob/main/assets/dart-plain-wordmark.svg" title="Dart" **alt="Dart" width="40" height="40"/>
   <img src="https://github.com/aoctaviopb/aoctaviopb/blob/main/assets/git-icon.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/aoctaviopb/aoctaviopb/blob/main/assets/riverpod.png" title="Riverpod" **alt="Riverpod" width="40" height="40"/>  
   <img src="https://github.com/aoctaviopb/aoctaviopb/blob/main/assets/vscode-original-wordmark.svg" title="VsCode" alt="VsCode" width="40" height="40"/>
@@ -49,4 +49,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://github.com/devicons/devicon
+
 -->
