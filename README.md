@@ -1,3 +1,5 @@
+[![en](https://img.shields.io/badge/lang-en-yellow)](https://github.com/aoctaviopb/aoctaviopb/blob/main/README.en.md)
+
 ### Hi there 👋
 
 <div>
