@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<div>
+Soy Magister en Ingeniería Ambiental con habilidades para trabajo individual y en equipo. 
+Poseo conocimiento en el desarrollo de aplicaciones multiplataforma bajo el framework Flutter, siempre dispuesto a seguir aprendiendo siendo autodidacta, atendiendo inquietudes y aceptando sugerencias y recomendaciones.
+Con conocimientos y experiencia en el manejo sistemas de información geográfica (SIG) con software propietario y software libre, así como en el manejo de diversos lenguajes de programación como Dart, Python, JavaScript y otros enfocados a ambientes académicos como NCL y operadores como CDO.
+</div>
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/aoctaviopb/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
