@@ -20,12 +20,14 @@ Con conocimientos y experiencia en el manejo sistemas de información geográfic
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Dart" **alt="Dart" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VsCode" alt="VsCode" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/aoctaviopb/aoctaviopb/blob/main/assets/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
+  <img src="https://github.com/aoctaviopb/aoctaviopb/blob/main/assets/dart-original-wordmark.svg" title="Dart" **alt="Dart" width="40" height="40"/>
+  <img src="https://github.com/aoctaviopb/aoctaviopb/blob/main/assets/git-icon.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/aoctaviopb/aoctaviopb/blob/main/assets/riverpod.png" title="Riverpod" **alt="Riverpod" width="40" height="40"/>  
+  <img src="https://github.com/aoctaviopb/aoctaviopb/blob/main/assets/vscode-original-wordmark.svg" title="VsCode" alt="VsCode" width="40" height="40"/>
+  <img src="https://github.com/aoctaviopb/aoctaviopb/blob/main/assets/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
+  <img src="https://github.com/aoctaviopb/aoctaviopb/blob/main/assets/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
+
 </div>
 
 ---
