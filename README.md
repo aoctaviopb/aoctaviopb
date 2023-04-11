@@ -33,9 +33,10 @@ Con conocimientos y experiencia en el manejo sistemas de información geográfic
 ---
 ### :fire: My Stats :
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aoctaviopb)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=aoctaviopb" width="44%" align="right" >
+<img src="http://github-readme-streak-stats.herokuapp.com?user=aoctaviopb&mode=weekly" width="48%" >
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aoctaviopb&mode=weekly)](https://git.io/streak-stats)
+
 <!--
 **aoctaviopb/aoctaviopb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -49,6 +50,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aoctaviopb)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aoctaviopb&mode=weekly)](https://git.io/streak-stats)
 
 https://github.com/devicons/devicon
 
