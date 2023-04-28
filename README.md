@@ -1,6 +1,8 @@
+<!--
 [![en](https://img.shields.io/badge/lang-en-yellow)](https://github.com/aoctaviopb/aoctaviopb/blob/main/README.en.md)
+-->
 
-### Hi there 👋
+### Hello there... 👋
 
 <div>
   Mi nombre es Andrés Octavio Pérez.
@@ -28,8 +30,9 @@ Con conocimientos y experiencia en el manejo sistemas de información geográfic
   <img src="https://github.com/aoctaviopb/aoctaviopb/blob/main/assets/riverpod.png" title="Riverpod" **alt="Riverpod" width="40" height="40"/>  
   <img src="https://github.com/aoctaviopb/aoctaviopb/blob/main/assets/vscode-original-wordmark.svg" title="VsCode" alt="VsCode" width="40" height="40"/>
   <img src="https://github.com/aoctaviopb/aoctaviopb/blob/main/assets/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
+<!--  
   <img src="https://github.com/aoctaviopb/aoctaviopb/blob/main/assets/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
-
+-->
 </div>
 
 ---
