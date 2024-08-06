@@ -36,10 +36,20 @@ Finalmente poseo un buen manejo en el idioma inglés siendo el componente de lec
   <img src="https://github.com/aoctaviopb/aoctaviopb/blob/main/assets/git-icon.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/aoctaviopb/aoctaviopb/blob/main/assets/vscode-original-wordmark.svg" title="VsCode" alt="VsCode" width="40" height="40"/>
   <img src="https://github.com/aoctaviopb/aoctaviopb/blob/main/assets/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
-<!--  
+  <img src="https://github.com/aoctaviopb/aoctaviopb/blob/main/assets/windows-original.svg" title="Windows" alt="Windows" width="40" height="40"/>
+  <img src="https://github.com/aoctaviopb/aoctaviopb/blob/main/assets/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>
+  <img src="https://github.com/aoctaviopb/aoctaviopb/blob/main/assets/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
+  <img src="https://github.com/aoctaviopb/aoctaviopb/blob/main/assets/c-original.svg" title="C" alt="C" width="40" height="40"/>
+  <img src="https://github.com/aoctaviopb/aoctaviopb/blob/main/assets/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>
+  <img src="https://github.com/aoctaviopb/aoctaviopb/blob/main/assets/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
+  <img src="https://github.com/aoctaviopb/aoctaviopb/blob/main/assets/mysql-original-wordmark.svg" title="mySQL" alt="mySQL" width="40" height="40"/>
+
+  <!--
+  íconos obtenidos de:
   https://github.com/devicons/devicon
   https://devicon.dev/
   -->
+  
 </div>
 
 ---
