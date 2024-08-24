@@ -52,11 +52,15 @@ Finalmente poseo un buen manejo en el idioma inglés siendo el componente de lec
   
 </div>
 
+  <!--
+
 ---
 ### :fire: My Stats :
 
 <img src="https://github-readme-stats.vercel.app/api?username=aoctaviopb" width="44%" align="right" >
 <img src="http://github-readme-streak-stats.herokuapp.com?user=aoctaviopb&mode=weekly" width="48%" >
+
+  -->
 
 
 <!--
