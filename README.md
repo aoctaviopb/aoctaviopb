@@ -24,7 +24,14 @@ Finalmente poseo un buen manejo en el idioma inglés siendo el componente de lec
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/aoctaviopb/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="https://www.credly.com/badges/5a739327-7f25-4015-ade9-119ddb936eae">
+    <img src="https://images.credly.com/size/680x680/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" title="Network-Basics" alt="CISCO Badge" width="80" height="80"/>
+  </a>
+  
+  <a href="https://www.credential.net/a33b81b0-fd2e-44aa-92a3-1baa008bf21f">
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/110827223" title="OSCP" alt="OSCP Badge" width="80" height="80"/>
   </a>
 </div>
