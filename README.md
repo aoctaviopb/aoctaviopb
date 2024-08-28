@@ -8,15 +8,15 @@
   <p>
 Mi nombre es Andrés Octavio Pérez Brand.
 
-Soy ingeniero ambiental, magister en ingeniería ambiental y recientemente poseedor del certificado "Offensive Security Certified Professional" (OSCP).
+Soy ingeniero ambiental, magister en ingeniería ambiental y certificado como "Offensive Security Certified Professional" (OSCP).
     
 Este certificado lo he obtenido pensando en iniciar un nuevo rumbo en el campo de la seguridad informática y con el fin de demostrar el interés en esta disciplina, así como la capacidad de aprendizaje y la seriedad con la que se enfrentan nuevos retos.
 
 Poseo habilidades para trabajo individual y en equipo. El tiempo trabajando en el ámbito ambiental me ha permitido tener experiencia en la redacción técnica de documentos, mientras que la interacción con comunidades y personas me ha ayudado a desarrollar habilidades comunicacionales enfocadas hacia un entorno fuera del campo técnico y académico.
 
-En el ámbito relacionado con la pruebas de penetración (penetration testing) poseeo experiencia en plataformas como Hack the Box, TryHackMe, VulnHun, PortSwigger Academy y los diversos laboratorios disponibles como parte del material de estudio para obtar por el certificado OSCP. Esto me ha permitido tener conocimiento utilizando el sistema operativo Kali Linux y en el manejo de herramientas tales como BurpSuite, Metasploit, Nmap, NetExec, y diversas otras herramientas utilizadas para la identificación de vulnerabilidades y la explotación de estas en aplicaciones y páginas web y servidores Windows y Linux. Siempre dispuesto a seguir aprendiendo siendo autodidacta, atendiendo inquietudes y aceptando sugerencias y recomendaciones.
-  
-También poseo conocimientos y experiencia en el manejo sistemas de información geográfica (SIG) con software propietario y software libre, así como en el manejo de diversos lenguajes de programación como Python, JavaScript, Shell scripting y otros enfocados a ambientes académicos como NCL y operadores como CDO.
+En el ámbito relacionado con la pruebas de penetración (penetration testing) poseeo experiencia en plataformas como Hack the Box, TryHackMe, VulnHun, PortSwigger Academy y los diversos laboratorios disponibles como parte del material de estudio para optar por el certificado OSCP. Esto me ha permitido tener conocimiento utilizando el sistema operativo Kali Linux y en el manejo de herramientas tales como BurpSuite, Metasploit, Nmap y NetExec. A su vez, la identificación de vulnerabilidades y su explotación en aplicaciones, páginas web y servidores Windows y Linux me ha permitido desarrollar habilidades relacionadas con el análisis y modificación de scripts escritos principalmente en los lenguajes Python, C y Shell scripting para permitir su correcta ejecución dependiendo del entorno donde se deba hacer uso.
+
+También poseo conocimientos y experiencia en el manejo sistemas de información geográfica (SIG), así como en el manejo de lenguajes de programación como Python y Shell scripting, además de otros lenguajes enfocados a ambientes académicos como NCL y operadores como CDO.
 
 Finalmente poseo un buen manejo en el idioma inglés siendo el componente de lectura y escritura los más destacados.
   </p> 
