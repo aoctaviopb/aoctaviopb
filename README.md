@@ -22,11 +22,10 @@ Finalmente poseo un buen manejo en el idioma inglés siendo el componente de lec
   </p> 
 </div>
 
+---
+### Certificados
+
 <div id="badges">
-  <a href="https://www.linkedin.com/in/aoctaviopb/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn Badge"/>
-  </a>
-  
   <a href="https://www.credly.com/badges/5a739327-7f25-4015-ade9-119ddb936eae">
     <img src="https://images.credly.com/size/680x680/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" title="Network-Basics" alt="CISCO Badge" width="80" height="80"/>
   </a>
@@ -37,7 +36,24 @@ Finalmente poseo un buen manejo en el idioma inglés siendo el componente de lec
 </div>
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+### Perfiles
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/aoctaviopb/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="https://app.hackthebox.com/users/1487907">
+    <img src="https://www.hackthebox.com/badge/image/1487907" title="HackTheBox" alt="HTB"/>
+  </a>
+</div>
+
+
+
+
+
+---
+### :hammer_and_wrench: Lenguajes y Herramientas:
 
 <div>
   <img src="https://github.com/aoctaviopb/aoctaviopb/blob/main/assets/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
